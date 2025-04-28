@@ -1,0 +1,23 @@
+# Ignorar arquivos do IntelliJ IDEA
+*.iml
+.idea/
+out/
+*.ipr
+*.iws
+
+# Ignorar arquivos compilados do Java
+*.class
+*.jar
+*.war
+*.ear
+
+# Ignorar pastas de build e dependências
+target/
+build/
+.gradle/
+.mvn/
+bin/
+
+# Ignorar arquivos de sistema
+.DS_Store
+Thumbs.db
